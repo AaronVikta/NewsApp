@@ -52,7 +52,7 @@ function createArticle(article) {
     return `
     <div class="article col-md-12">
     <div class="col-md-6">
-      <a href="${article.url}">
+      <a href=" target="_blank" ${article.url}">
         <h2>${article.title}</h2></a>
          <p>${article.description}</p>
         <p style="padding-bottom:4em;"> <a style="color:blue" target="_blank" href="${article.url}">Read More</a></li></p>
