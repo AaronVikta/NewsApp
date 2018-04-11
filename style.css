@@ -1,0 +1,39 @@
+
+
+
+.vikta_dump{
+	margin-top: 50px;
+    margin: auto;
+    padding-left: 1em;
+}
+img{
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+
+.article h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+/**/
+
+.article{
+ padding-top: 4em;
+ color: #000;
+}
+
+select {
+    color: #fff;
+    font-size: 15px;
+    background-color: transparent;
+    width: 15%;
+    /*box-sizing: border-box;*/
+	border:1px solid #fff;
+    font-weight: 600;
+   }
+.origin-select{
+	margin-bottom: 50px;
+}
+.controlimage{
+	padding: 30px;
+}

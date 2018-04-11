@@ -1,0 +1,15 @@
+{
+  "name": "newsnow",
+  "version": "1.0.0",
+  "description": "this is an app in partial fulfiment of the course andela ",
+  "main": "index",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gothub.com/AaronVikta/NewsApp.git"
+  },
+  "author": "Awam Victor Aaron",
+  "license": "MIT"
+}
